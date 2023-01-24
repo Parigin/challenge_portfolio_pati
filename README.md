@@ -11,9 +11,11 @@
 # 2) Login
 #  //*[@id="__next"]/form/div/div[1]/div[1]/div
 #  //*[@class="MuiInputBase-input MuiInput-input"]
+#  //*[@id='login']
 # 3) Password
 #  //*[@id="__next"]/form/div/div[1]/div[2]/div
 #  /html/body/div/form/div/div[1]/div[2]/div
+#  //*[@id='password']
 # 4) Languages switch button:
 #  //*[@id="__next"]/form/div/div[2]/div/div
 #  //*[text()="English"] or //*[text()="Polski"]
